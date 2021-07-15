@@ -86,7 +86,7 @@ html{
     font-size: 3em;
     padding-top: 40px;
     /* margin: 0px 0px; */
-    /* animation: shake .7s linear alternate infinite; */
+    animation: shake .7s linear alternate infinite;
   }
 
   @-webkit-keyframes shake {
